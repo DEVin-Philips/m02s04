@@ -35,4 +35,8 @@ public class Gato {
         return idade;
     }
 
+    public void setIdade(Integer idade) {
+        this.idade = idade;
+    }
+
 }
